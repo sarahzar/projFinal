@@ -14,7 +14,7 @@ import entities.Colleges;
 public class CollegeDAO implements IGestionCollegeCRUD<Colleges>,ICollegeDAO{
 
 	
-	
+	//declarer une session
 	private Session session; 
 	
 	
